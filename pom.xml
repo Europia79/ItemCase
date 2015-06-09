@@ -9,6 +9,8 @@
   
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>1.6</maven.compiler.target>
     </properties>
   
     <repositories>
@@ -108,7 +110,7 @@
                             <exclude>org.bukkit</exclude>
                             <exclude>net.milkbowl.vault</exclude>
                             <exclude>junit</exclude>
-                            <exclude>com.sk89q.worldguard</exclude>
+                            <exclude>com.sk89q</exclude>
                         </excludes>
                     </artifactSet>
                 </configuration>
