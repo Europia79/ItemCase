@@ -127,7 +127,7 @@ public class ItemCase extends JavaPlugin {
 
         // Check correct version of craftbukkit is being used
         try {
-            Class.forName("org.bukkit.craftbukkit.v1_7_R3.CraftServer");
+            Class.forName("org.bukkit.craftbukkit.v1_7_R4.CraftServer");
         } catch (ClassNotFoundException e) {
             PluginLogger.warning(
                     Language.getLanguageFile().getMessage(
