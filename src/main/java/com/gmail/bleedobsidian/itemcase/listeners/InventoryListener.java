@@ -17,6 +17,7 @@
 package com.gmail.bleedobsidian.itemcase.listeners;
 
 import com.gmail.bleedobsidian.itemcase.ItemCase;
+
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

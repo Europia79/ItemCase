@@ -17,6 +17,7 @@
 package com.gmail.bleedobsidian.itemcase.managers.itemcase;
 
 import com.gmail.bleedobsidian.itemcase.ItemCase;
+
 import org.bukkit.metadata.MetadataValue;
 import org.bukkit.plugin.Plugin;
 

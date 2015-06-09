@@ -9,8 +9,10 @@ import com.gmail.bleedobsidian.itemcase.managers.itemcase.Itemcase;
 import com.gmail.bleedobsidian.itemcase.managers.orders.Order;
 import com.gmail.bleedobsidian.itemcase.managers.orders.OrderMode;
 import com.gmail.bleedobsidian.itemcase.managers.orders.OrderResult;
+
 import java.text.DecimalFormat;
 import java.util.Map.Entry;
+
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.OfflinePlayer;
